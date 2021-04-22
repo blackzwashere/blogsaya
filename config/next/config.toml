@@ -1,2 +1,4 @@
 baseurl = "https://frosty-mestorf-f26a66.netlify.app"
 canonifyURLs = true
+baseurl = "https://frosty-mestorf-f26a66.netlify.app/"
+canonifyURLs = true
