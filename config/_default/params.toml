@@ -1,7 +1,7 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "BlogCapadesu"
 titleSeparator = "-"
 titleAddition = "Modern Documentation Theme"
 description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
@@ -40,10 +40,10 @@ footer = "Built with ❤️ using <a href=\"https://gohugo.io/\">Hugo</a>"
 
 # Alert
 alert = false
-alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/doks/stargazers\">Star on GitHub</a>. Thanks!</a>"
+alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/CandraBlackz\">Star on GitHub</a>. Thanks!</a>"
 
 # Edit Page
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com/CandraBlackz"
 editPage = false
 
 [options]
